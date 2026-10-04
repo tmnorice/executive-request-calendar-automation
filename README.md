@@ -56,3 +56,7 @@ The workflow was tested with both routing paths:
 ## Notes
 
 This repository contains a sanitized portfolio version of the workflow. It does not include private account credentials, client data, API keys, or internal business records.
+
+## Process map
+
+![Current vs. automated request routing](Request_Routing_Current_vs_Automated.png)
