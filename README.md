@@ -57,6 +57,14 @@ The workflow was tested with both routing paths:
 
 This repository contains a sanitized portfolio version of the workflow. It does not include private account credentials, client data, API keys, or internal business records.
 
-## Process map
+## Process model (swimlanes)
 
-![Current vs. automated request routing](Request_Routing_Current_vs_Automated.png)
+Cross-functional swimlane diagrams of the same process, before and after automation, built in Visio. Each lane shows who or what handles each step.
+
+### Current state (manual)
+
+![Request routing current state swimlane](Request_Routing_Current_Swimlane.png)
+
+### Automated state (Google Apps Script)
+
+![Request routing automated state swimlane](Request_Routing_Automated_Swimlane.png)
