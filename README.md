@@ -1,3 +1,5 @@
+See the full case study: [Build: Calendar Routing](https://work.tonuanorice.com/the-work/build-calendar-routing)
+
 # Executive Request + Calendar Automation
 
 A Google Apps Script workflow that turns structured request data in Google Sheets into calendar activity and writes the result back to the request tracker.
