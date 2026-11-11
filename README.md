@@ -69,4 +69,4 @@ Cross-functional swimlane diagrams of the same process, before and after automat
 
 ### Automated state (Google Apps Script)
 
-![Request routing automated state swimlane](Request_Routing_Automated_Swimlane.png)
+![Request routing automated state swimlane](Request_Routing_Future_State_v2.png)
